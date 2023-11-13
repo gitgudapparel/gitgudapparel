@@ -8,7 +8,7 @@ Welcome to the official GitHub page for GitGud.store! We're a unique blend of te
 - 💞️ I’m looking to collaborate on ...
   Projects and partnerships that align with our vision of tech fashion. This includes co-designing with other tech brands, exploring new tech wearables, and any creative ideas that merge coding culture with fashion.
 - 📫 How to reach me ...
-  Interested in collaborating or have a question? You can reach us at contact@gitgud.store. Follow us on social media for the latest updates and sneak peeks into our upcoming collections!
+  Interested in collaborating or have a question? You can reach us at admin@gitgud.store. Follow us on social media for the latest updates and sneak peeks into our upcoming collections!
 
 <!---
 gitgudapparel/gitgudapparel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
