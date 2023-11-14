@@ -1,4 +1,4 @@
-👋 Hi, I’m @gitgudapparel
+👋 Hi, we're @gitgudapparel
 
 > Verb. git gud. (Internet slang) To improve; to develop the necessary skill or expertise.
 
