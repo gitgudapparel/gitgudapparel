@@ -10,6 +10,8 @@ Welcome to the official GitHub page for GitGud.store! We're a unique blend of te
 - 📫 How to reach me ...
   Interested in collaborating or have a question? You can reach us at admin@gitgud.store. Follow us on social media for the latest updates and sneak peeks into our upcoming collections!
 
+> Verb. git gud. (Internet slang) To improve; to develop the necessary skill or expertise.
+
 <!---
 gitgudapparel/gitgudapparel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
